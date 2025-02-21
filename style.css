@@ -1,0 +1,41 @@
+*{
+ box-sizing: border-box;
+ 
+}
+body{
+    background-color: #2A5D5A;
+}
+.box{
+    width: 1000px;
+    height: 638px;
+    background-color: black;
+    border: 10px solid red;
+}
+.box1{
+    margin-top: auto 193px;
+    background-color: #339791;
+    width: 896px;
+    height: 259px;
+    text-align: left;
+    padding: 52px;
+margin: 42px;
+
+}
+
+h1{
+    color: white;
+    background-color: black;
+text-align: center;
+width: 300px;
+margin-top: auto 111px;
+}
+.box2{
+    margin-top: auto 193px;
+    background-color: #339791;
+    width: 896px;
+    height: 259px;
+    text-align: left;
+    padding: 52px;
+margin: 42px;
+
+}
